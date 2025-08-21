@@ -4,7 +4,7 @@
 A simple Android app built with **Flutter** that demonstrates **Firebase Authentication** and basic **Firestore integration**.  
 Users can register, log in, log out, and update profile details. After login, a static blog feed and profile screen are displayed.
 
----
+
 
 ## 📌 Features
 - Email/Password **sign up** & **login**
@@ -13,7 +13,7 @@ Users can register, log in, log out, and update profile details. After login, a 
 - Simple **Home screen** with static blog items
 - Firestore Security Rules for user data protection
 
----
+
 
 ## 🛠️ Setup
 1. Create a new Flutter project:
@@ -40,7 +40,7 @@ Users can register, log in, log out, and update profile details. After login, a 
    await Firebase.initializeApp();
    ```
 
----
+
 
 ## 📂 Project Structure
 
@@ -51,7 +51,7 @@ Users can register, log in, log out, and update profile details. After login, a 
 * `profile_screen.dart` → Firestore profile read/write
 * `home_screen.dart` → Static blog list
 
----
+
 
 ## 🔒 Firestore Security Rules
 
@@ -66,7 +66,7 @@ service cloud.firestore {
 }
 ```
 
----
+
 
 ## 📷 Screenshots
 
@@ -83,7 +83,7 @@ service cloud.firestore {
 <img width="485" height="1080" alt="image" src="https://github.com/user-attachments/assets/17e98558-2829-46e7-b403-2dd13d4fcc9e" />
 
 
----
+
 
 ## 📖 Conclusion
 
