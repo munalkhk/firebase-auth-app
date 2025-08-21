@@ -19,7 +19,7 @@ Users can register, log in, log out, and update profile details. After login, a 
 1. Create a new Flutter project:
    ```bash
    flutter create firebase_auth_app
-````
+
 
 2. Add Firebase to the Android project (download `google-services.json` → place inside `android/app/`).
 3. Enable **Email/Password Authentication** and create a **Firestore database** in Firebase Console.
