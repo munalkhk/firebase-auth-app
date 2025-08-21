@@ -1,6 +1,4 @@
-Here’s a short **GitHub README.md** draft for your project 👇
 
-````markdown
 # Firebase Authentication Flutter App
 
 A simple Android app built with **Flutter** that demonstrates **Firebase Authentication** and basic **Firestore integration**.  
